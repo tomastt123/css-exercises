@@ -1,5 +1,7 @@
 /* styles.css */
-.my-div {
+
+/* CSS for the div element */
+div {
     color: blue;
     background-color: lightgray;
     padding: 20px;
