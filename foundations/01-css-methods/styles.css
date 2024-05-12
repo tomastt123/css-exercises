@@ -1,6 +1,6 @@
 /* styles.css */
-
-div {
-  color: red;
-  background-color: black;
+.my-div {
+    color: blue;
+    background-color: lightgray;
+    padding: 20px;
 }
