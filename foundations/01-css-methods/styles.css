@@ -2,7 +2,9 @@
 
 /* CSS for the div element */
 div {
-    color: blue;
-    background-color: lightgray;
-    padding: 20px;
+    color: white;
+    background-color: red;
+    padding: 32px;
+    text-align: center;
+    font-weight: bold;
 }
